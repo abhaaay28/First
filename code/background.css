@@ -1,0 +1,22 @@
+.ab{
+    background-color: aqua;
+}
+
+.bc{
+    background-color:#c9c9c9;
+}
+.cd{
+    background-color:rgb(219, 50, 50);
+}
+.de{
+    background-color:hsl(320,30%,45%);
+}
+.ef{
+   
+    background-color: hsla(300,20%,20%,0.8);
+}
+body{
+    height: 100vh;
+    background: radial-gradient( orange,white,green);
+}
+
