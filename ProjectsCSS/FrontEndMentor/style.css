@@ -58,7 +58,9 @@ body{
 
     }
     .share{
+        
         background-color:hsl(210, 46%, 95%);
-        padding: 15px;
-        border-radius: 50%;
+        padding: 12px;
+        border-radius: 30%;
+        
          }
