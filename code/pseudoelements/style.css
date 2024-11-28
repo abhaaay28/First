@@ -1,0 +1,16 @@
+.box1::first-letter{
+    color:blue;
+    font-size: 43px;
+}
+.box::first-line{
+    color: rgb(49, 23, 197);
+}
+.box1::after{
+    content:"Yadav"
+}
+.box1::before{
+    content: "Abhay";
+}
+.box2::placeholder{
+    color:red;
+}
